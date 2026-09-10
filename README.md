@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nancy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 - 🌱 I’m currently learning **Strong DSA concept with leetcode, learn tensorflow,transformer,and machine learning.**
 
